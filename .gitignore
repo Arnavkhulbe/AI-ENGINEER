@@ -5,6 +5,7 @@
 venv/
 .venv/
 env/
+embeddings_10/.venv/
 
 # Python cache
 __pycache__/
